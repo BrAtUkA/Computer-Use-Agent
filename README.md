@@ -17,7 +17,9 @@
 <br>
 
 <p align="center">
-  <video src="imgs/demo.mp4" width="700" controls></video>
+  <a href="https://github.com/BrAtUkA/Computer-Use-Agent/raw/main/imgs/demo.mp4">
+    <img src="https://img.shields.io/badge/▶_Watch_Demo-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo">
+  </a>
 </p>
 
 <br>
